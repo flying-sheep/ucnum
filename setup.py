@@ -14,6 +14,7 @@ setup(
 	py_modules=['ucnum'],
 	scripts=['ucnum'],
 	long_description=ucnum.__doc__,
+	install_requires=['unicodeblocks'],
 	classifiers=[
 		'Topic :: Utilities',
 		'Environment :: Console',
