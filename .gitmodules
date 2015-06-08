@@ -1,0 +1,3 @@
+[submodule "python-ucnum"]
+	path = python-ucnum
+	url = ssh://aur@aur4.archlinux.org/python-ucnum.git
